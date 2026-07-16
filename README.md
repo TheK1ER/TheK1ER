@@ -53,6 +53,8 @@ A flexible, memory-efficient C++ CSV parsing library. Parses specific rows, colu
 * Designing custom mathematical backbones, matrix libraries, and computational graphs to execute custom machine learning operations directly on top of raw memory structures.
 * Integrating custom hardware solutions and optimizing execution speed for both CPU (multithreading) and GPU (parallel compute kernels).
 
+---
+
 ## 📫 Connect with me
 
 - **Email:** [eren1553kina@gmail.com](mailto:eren1553kina@gmail.com)
