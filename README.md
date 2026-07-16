@@ -45,10 +45,3 @@ A flexible, memory-efficient C++ CSV parsing library. Parses specific rows, colu
 * Designing and deploying scalable, modern web applications utilizing the **AWS Amplify** framework.
 * Implementing secure, serverless back-end architectures utilizing **AWS Lambda** and **Cognito** to handle complex application logic and user identity management.
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheK1ER&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="TheK1ER's GitHub Stats" />
-</p>
