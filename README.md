@@ -1,4 +1,4 @@
-# Hi, I'm Eren (@TheK1ER)! 👋
+# Hi, I'm Eren (@TheK1ER)! 
 
 I am a **Systems, Cloud & Mobile Engineer** specializing in low-level C++ development, custom machine learning architectures, cross-platform mobile apps, and scalable cloud backends. 
 
