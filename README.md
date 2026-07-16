@@ -1,4 +1,4 @@
-# Hi, I'm TheK1ER! 👋
+# Hi, I'm Eren (@TheK1ER)! 👋
 
 I am a **Systems, Cloud & Mobile Engineer** specializing in low-level C++ development, custom machine learning architectures, cross-platform mobile apps, and scalable cloud backends. 
 
@@ -53,3 +53,7 @@ A flexible, memory-efficient C++ CSV parsing library. Parses specific rows, colu
 * Designing custom mathematical backbones, matrix libraries, and computational graphs to execute custom machine learning operations directly on top of raw memory structures.
 * Integrating custom hardware solutions and optimizing execution speed for both CPU (multithreading) and GPU (parallel compute kernels).
 
+### 📫 Connect with me
+
+- **Email:** [eren1553kina@gmail.com](mailto:eren1553kina@gmail.com)
+- **LinkedIn:** www.linkedin.com/in/erenkina
