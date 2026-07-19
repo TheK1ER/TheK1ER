@@ -18,44 +18,44 @@ My engineering approach centers on understanding and optimizing the underlying m
 
 ## Featured Projects
 
-### [MythrilUI](https://github.com/TheK1ER/MythrilUI)
+### 🛡️ [MythrilUI](https://github.com/TheK1ER/MythrilUI)
 A hardware-accelerated 2D UI framework built in C++ using OpenGL 3.3 (GLFW / GLAD).
 * Custom **9-Slice scaling algorithm** for distortion-free rectangular UI components.
 * Advanced text rendering using **FreeType** with dynamic word-wrapping and smart ellipsis clipping.
 * Polymorphic render pipeline utilizing a modern, type-safe variant batching system.
 
-### [DAG-NN-CPP](https://github.com/TheK1ER/DAG-NN-CPP)
+### 🧠 [DAG-NN-CPP](https://github.com/TheK1ER/DAG-NN-CPP)
 A lightweight neural network framework built from scratch in modern C++ featuring a Directed Acyclic Graph (DAG) computational model.
 * **DAG Computational Graph:** Supports custom branching (`SplitNode`) and merging (`ConcatNode`) operations, allowing tensors to branch out into multiple parallel sub-networks and merge back.
 * **Robust Core Engine:** Backed by a self-contained matrix engine for key linear algebra operations, utilizing smart pointers (`std::shared_ptr`, `std::weak_ptr`) for memory-safe graph nodes.
 * **Numerical & Gradient Safety:** Equipped with built-in Xavier (Glorot) Initialization and numerical-clipping protected activations (Sigmoid, Tanh) to ensure stability during training.
 
-### [LiteMatrix-CPP](https://github.com/TheK1ER/LiteMatrix-CPP)
+### 📐 [LiteMatrix-CPP](https://github.com/TheK1ER/LiteMatrix-CPP)
 A lightweight, standalone C++ matrix library designed for linear algebra and machine learning operations. Supports dot products, transposition, slicing, concatenation, and Xavier initialization.
 
-### [C++ CSV Reader](https://github.com/TheK1ER/CSVReader)
+### 📄 [C++ CSV Reader](https://github.com/TheK1ER/CSVReader)
 A flexible, memory-efficient C++ CSV parsing library. Parses specific rows, columns, or custom ranges into memory with safe type conversion and minimal overhead.
 
 ---
 
 ## Core Focus Areas
 
-### Cross-Platform Mobile Engineering
+### 📱 Cross-Platform Mobile Engineering
 * Experienced in the full mobile application development lifecycle on Android using **Flutter**, delivering responsive front-end interfaces and secure back-end integrations.
 * Specialized in implementing user authentication flows, state management, and robust offline-first data synchronization mechanisms.
 * Focused heavily on application performance, resource usage, and clean UX transitions.
 
-### Modern Web & Cloud Architectures
+### ☁️ Modern Web & Cloud Architectures
 * Designing and deploying scalable, modern web applications utilizing the **AWS Amplify** framework.
 * Implementing secure, serverless back-end architectures utilizing **AWS Lambda** and **Cognito** to handle complex application logic and user identity management.
 
-### Deep-Tech & System Mathematics
+### ⚙️ Deep-Tech & System Mathematics
 * Designing custom mathematical backbones, matrix libraries, and computational graphs to execute custom machine learning operations directly on top of raw memory structures.
 * Integrating custom hardware solutions and optimizing execution speed for both CPU (multithreading) and GPU (parallel compute kernels).
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 - **Email:** [eren1553kina@gmail.com](mailto:eren1553kina@gmail.com)
 - **LinkedIn:** www.linkedin.com/in/erenkina
